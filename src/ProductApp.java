@@ -2,6 +2,7 @@
 public class ProductApp {
 
 	public static void main(String[] args) {
+		System.out.println("Welcome to the Product application!");
 		// Create an instance of Product using the empty / default constructor
 		Product product1 = new Product();
 		product1.setCode("java");
